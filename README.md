@@ -20,7 +20,12 @@
 * THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Built with
+Node.js
+MySql
 
-## Demo and Screenshot
+## Demo and Screenshot## Screenshot and Demo
+https://watch.screencastify.com/v/7t6bFur2lJvscbvZH1fJ
+
+
 
 ## Link
